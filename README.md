@@ -11,7 +11,7 @@ Hello lovely people :)!
     - Plutus (Cardano)
 - 🌱 I’m currently learning
     - Plutus (Cardano)
-    - 
+   
 - 👯 I’m looking to collaborate on
   - Decentralized applications
 
